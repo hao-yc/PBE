@@ -1,5 +1,4 @@
-# PBE
-PBE_Telecos_upc
+# PBE Proyecto-básico-de-ingeniería 
 Descripción del proyecto
 
 Este proyecto consiste en el desarrollo de un sistema completo que integra hardware y software para ofrecer información académica personalizada a través de una tarjeta NFC. El objetivo es permitir que cualquier usuario pueda consultar fácilmente sus datos (como horarios, tareas y calificaciones) simplemente acercando su tarjeta identificadora a un lector conectado a un dispositivo.
